@@ -40,4 +40,3 @@ target_include_directories(tww
 )
 
 target_link_libraries(tww ${Boost_LIBRARIES})
-target_link_libraries(twwheuristic ${Boost_LIBRARIES})
