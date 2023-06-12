@@ -14,7 +14,6 @@ set(CMAKE_CXX_FLAGS_RELEASE "-O3")
 
 set(SOURCES1
     src/twwexact.cpp
-    src/fileops.cpp
     src/bitsettrigraph.cpp
     src/solver.cpp
     src/trigraph.cpp
